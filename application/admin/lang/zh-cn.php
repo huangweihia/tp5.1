@@ -209,4 +209,5 @@ return [
     'User Module'                                           => '会员模块',
     'Register'                                              => '注册',
     'User Center'                                           => '会员中心',
+    'Captcha'                                               =>'验证码'
 ];

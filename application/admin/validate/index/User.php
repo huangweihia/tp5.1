@@ -13,7 +13,7 @@ class User extends Validate
      * @var array
      */	
 	protected $rule = [
-	    'username'      =>'require|max:10',
+	    'username'      =>'require|max:10|token',
         'password'  =>'require'
     ];
 
